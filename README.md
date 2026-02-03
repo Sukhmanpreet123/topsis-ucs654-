@@ -78,8 +78,8 @@ This project provides a **command-line based Python package** to perform TOPSIS 
 ---
 ## Screenshot of Interface
 <p align="center">
-  <img src="pdf_real.png" alt="Real Data PDF" width="45%">
-  <img src="pdf_gan.png" alt="GAN Estimated PDF" width="45%">
+  <img src="img1.png" width="45%">
+  <img src="img2.png" alt="GAN Estimated PDF" width="45%">
 </p>
 
 ##  Installation & Usage
