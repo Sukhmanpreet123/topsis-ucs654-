@@ -4,6 +4,12 @@
 Developed by **Sukhmanpreet Kaur**  
 **Roll No:** 102313003  
 
+
+[![PyPI version](https://img.shields.io/pypi/v/Topsis-Sukhmanpreet-102313003.svg)](https://pypi.org/project/Topsis-Sukhmanpreet-102313003/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sukhmanpreet123-topsis-ucs654--app-dbuw8z.streamlit.app)
+
+
+
 ---
 
 ## 1.  Methodology
@@ -76,11 +82,21 @@ This project provides a **command-line based Python package** to perform TOPSIS 
 | M3 | 0.92 | 0.65 | 4.1 | 110 | 0.5337 | 3 |
 
 ---
-## Screenshot of Interface
+## Live Link
+**Web App:**  
+https://sukhmanpreet123-topsis-ucs654--app-dbuw8z.streamlit.app
+
+**PyPI Package:**  
+https://pypi.org/project/Topsis-Sukhmanpreet-102313003/
+
+---
+## 4. Screenshot of Interface
 <p align="center">
   <img src="img1.png" width="45%">
   <img src="img2.png" alt="GAN Estimated PDF" width="45%">
 </p>
+
+---
 
 ##  Installation & Usage
 
